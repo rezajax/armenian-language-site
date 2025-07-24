@@ -1,0 +1,142 @@
+[
+  {
+    "category": "Greetings & Common",
+    "items": [
+      {
+        "armenian": "Բարև ձեզ",
+        "transliteration": "Barev dzez",
+        "english": "Hello (formal)",
+        "persian": "سلام (رسمی)"
+      },
+      {
+        "armenian": "Բարև",
+        "transliteration": "Barev",
+        "english": "Hello (informal)",
+        "persian": "سلام"
+      },
+      {
+        "armenian": "Ինչպե՞ս եք?",
+        "transliteration": "Inchpes eq?",
+        "english": "How are you? (formal)",
+        "persian": "حال شما چطور است؟"
+      },
+      {
+        "armenian": "Ինչպե՞ս ես?",
+        "transliteration": "Inchpes es?",
+        "english": "How are you? (informal)",
+        "persian": "حالت چطور است؟"
+      },
+      {
+        "armenian": "Լավ, շնորհակալություն",
+        "transliteration": "Lav, shnorhakalutyun",
+        "english": "Fine, thanks",
+        "persian": "خوبم، ممنون"
+      },
+      {
+        "armenian": "Լավ, մերսի",
+        "transliteration": "Lav, merci",
+        "english": "Fine, thanks (using French 'merci')",
+        "persian": "خوبم، مرسی"
+      },
+      {
+        "armenian": "Ցտեսություն",
+        "transliteration": "Tstesutyun",
+        "english": "Goodbye (formal)",
+        "persian": "خداحافظ (رسمی)"
+      },
+      {
+        "armenian": "Հաջողություն",
+        "transliteration": "Hajoghutyun",
+        "english": "Goodbye / good luck (informal)",
+        "persian": "موفق باشی / خداحافظ"
+      }
+    ]
+  },
+  {
+    "category": "Shopping",
+    "items": [
+      {
+        "armenian": "Ի՞նչ արժե?",
+        "transliteration": "Inch arje?",
+        "english": "How much does it cost?",
+        "persian": "قیمتش چقدر است؟"
+      },
+      {
+        "armenian": "Վերջի՞ն գինն է?",
+        "transliteration": "Verjin ginn e?",
+        "english": "Is that the final price?",
+        "persian": "آیا این آخرین قیمت است؟"
+      },
+      {
+        "armenian": "Այսքանը շատ թանկ է",
+        "transliteration": "Aysk'ane shat t'ank e",
+        "english": "That is too expensive",
+        "persian": "این خیلی گران است"
+      },
+      {
+        "armenian": "Կարելի՞ է զեղչ անել?",
+        "transliteration": "Kareli e zeghch anel?",
+        "english": "Can you give a discount?",
+        "persian": "می‌شود تخفیف بدهید؟"
+      }
+    ]
+  },
+  {
+    "category": "Love & Affection",
+    "items": [
+      {
+        "armenian": "Ջան",
+        "transliteration": "Jan",
+        "english": "Dear / sweetheart (term of endearment)",
+        "persian": "جان (واژه محبت آمیز)"
+      },
+      {
+        "armenian": "Ցավդ տանեմ",
+        "transliteration": "Tsavt tanem",
+        "english": "Let me take your pain (expression of deep affection)",
+        "persian": "قربونت برم"
+      },
+      {
+        "armenian": "Սիրում եմ քեզ",
+        "transliteration": "Sirum em qez",
+        "english": "I love you",
+        "persian": "دوستت دارم"
+      },
+      {
+        "armenian": "Աչքիս լույս",
+        "transliteration": "Achqis luys",
+        "english": "Light of my eye (very precious person)",
+        "persian": "نور چشمم / خیلی عزیز هستی"
+      }
+    ]
+  },
+  {
+    "category": "Funny & Idiomatic",
+    "items": [
+      {
+        "armenian": "Սիրտ չունեմ",
+        "transliteration": "Sirt chunem",
+        "english": "I have no heart (I don't feel like it)",
+        "persian": "حوصله ندارم"
+      },
+      {
+        "armenian": "Բոյիդ մեռնեմ",
+        "transliteration": "Boyid mernem",
+        "english": "Let me die on your height (expression of adoration)",
+        "persian": "فدات بشم / قربانت برم"
+      },
+      {
+        "armenian": "Գլուխս մի հարդուկիր",
+        "transliteration": "Glukhs mi hardukir",
+        "english": "Don't iron my head (stop boring me)",
+        "persian": "سرم رو نخور / زیاد حرف نزن"
+      },
+      {
+        "armenian": "Հոգիս դուրս եկավ",
+        "transliteration": "Hogis durs ekav",
+        "english": "My soul came out (I'm exhausted)",
+        "persian": "جونم در رفت / خیلی خسته شدم"
+      }
+    ]
+  }
+]

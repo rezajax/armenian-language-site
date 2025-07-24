@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the Armenian greeting ‘Բարև’ (Barev) mean?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Please",
+      "Thank you"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "question": "How do you say ‘Thank you’ in Armenian?",
+    "options": [
+      "Khndrem",
+      "Shnorhakalutyun",
+      "Barev",
+      "Ayo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "The Armenian word ‘Հինգ’ (Hing) represents which number?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "‘Երեքշաբթի’ (Yerekshabti) corresponds to which day of the week?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does the phrase ‘Ի՞նչ արժե?’ (Inch arje?) mean when shopping?",
+    "options": [
+      "Is that the final price?",
+      "How much does it cost?",
+      "Can I pay with card?",
+      "Where is the market?"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "Choose the correct translation for ‘Սիրում եմ քեզ’ (Sirum em qez).",
+    "options": [
+      "I love you",
+      "I am sorry",
+      "Excuse me",
+      "Good luck"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "question": "Which Armenian phrase is used to ask whether the price is final?",
+    "options": [
+      "Tsavt tanem",
+      "Verjin ginn e?",
+      "Lav, merci",
+      "Achqis luys"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does the Armenian idiom ‘Սիրտ չունեմ’ (Sirt chunem) express?",
+    "options": [
+      "I am very happy",
+      "I don't feel like it / I have no heart",
+      "I am tired",
+      "I love you"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "Which of the following means ‘Bus’ in Armenian?",
+    "options": [
+      "Avtobus",
+      "Kayaran",
+      "Hivandanots",
+      "Bazar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "question": "‘Yes kardum em’ translates as? (Hint: first person present tense from grammar)",
+    "options": [
+      "I read",
+      "You read",
+      "He reads",
+      "I will read"
+    ],
+    "answerIndex": 0
+  }
+]
