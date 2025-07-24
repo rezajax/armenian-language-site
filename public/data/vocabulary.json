@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Greetings",
+    "items": [
+      { "armenian": "Բարև", "transliteration": "Barev", "english": "Hello", "persian": "سلام" },
+      { "armenian": "Ինչպես ես?", "transliteration": "Vonts es?", "english": "How are you?", "persian": "حال شما چطور است؟" },
+      { "armenian": "Շնորհակալություն", "transliteration": "Shnorhakalutyun", "english": "Thank you", "persian": "ممنون" },
+      { "armenian": "Խնդրեմ", "transliteration": "Khndrem", "english": "Please / You're welcome", "persian": "خواهش می‌کنم" },
+      { "armenian": "Այո", "transliteration": "Ayo", "english": "Yes", "persian": "بله" },
+      { "armenian": "Ոչ", "transliteration": "Voch", "english": "No", "persian": "نه" },
+      { "armenian": "Բարի լույս", "transliteration": "Bari looys", "english": "Good morning", "persian": "صبح بخیر" },
+      { "armenian": "Բարի գիշեր", "transliteration": "Bari gisher", "english": "Good night", "persian": "شب بخیر" }
+    ]
+  },
+  {
+    "category": "Numbers",
+    "items": [
+      { "armenian": "Մեկ", "transliteration": "Mek", "english": "1", "persian": "یک" },
+      { "armenian": "Երկու", "transliteration": "Yerku", "english": "2", "persian": "دو" },
+      { "armenian": "Երեք", "transliteration": "Yerek", "english": "3", "persian": "سه" },
+      { "armenian": "Չորս", "transliteration": "Chors", "english": "4", "persian": "چهار" },
+      { "armenian": "Հինգ", "transliteration": "Hing", "english": "5", "persian": "پنج" },
+      { "armenian": "Վեց", "transliteration": "Vetz", "english": "6", "persian": "شش" },
+      { "armenian": "Յոթ", "transliteration": "Yot", "english": "7", "persian": "هفت" },
+      { "armenian": "Ութ", "transliteration": "Ut", "english": "8", "persian": "هشت" },
+      { "armenian": "Ինը", "transliteration": "Ine", "english": "9", "persian": "نه" },
+      { "armenian": "Տասը", "transliteration": "Tas", "english": "10", "persian": "ده" },
+      { "armenian": "Քսան", "transliteration": "Ksan", "english": "20", "persian": "بیست" },
+      { "armenian": "Երեսուն", "transliteration": "Yeresoon", "english": "30", "persian": "سی" },
+      { "armenian": "Քառասուն", "transliteration": "Karasoon", "english": "40", "persian": "چهل" },
+      { "armenian": "Հիսուն", "transliteration": "Hisoon", "english": "50", "persian": "پنجاه" },
+      { "armenian": "Վաթսուն", "transliteration": "Vatsoon", "english": "60", "persian": "شصت" },
+      { "armenian": "Յոթանասուն", "transliteration": "Yotanasoon", "english": "70", "persian": "هفتاد" },
+      { "armenian": "Ութսուն", "transliteration": "Ootsoon", "english": "80", "persian": "هشتاد" },
+      { "armenian": "Իննսուն", "transliteration": "Inesoon", "english": "90", "persian": "نود" },
+      { "armenian": "Հարյուր", "transliteration": "Haryur", "english": "100", "persian": "صد" }
+    ]
+  },
+  {
+    "category": "Days of Week",
+    "items": [
+      { "armenian": "Երկուշաբթի", "transliteration": "Yerkushabti", "english": "Monday", "persian": "دوشنبه" },
+      { "armenian": "Երեքշաբթի", "transliteration": "Yerekshabti", "english": "Tuesday", "persian": "سه‌شنبه" },
+      { "armenian": "Չորեքշաբթի", "transliteration": "Chorekshabti", "english": "Wednesday", "persian": "چهارشنبه" },
+      { "armenian": "Հինգշաբթի", "transliteration": "Hingshabti", "english": "Thursday", "persian": "پنج‌شنبه" },
+      { "armenian": "Ուրբաթ", "transliteration": "Urbat", "english": "Friday", "persian": "جمعه" },
+      { "armenian": "Շաբաթ", "transliteration": "Shabat", "english": "Saturday", "persian": "شنبه" },
+      { "armenian": "Կիրակի", "transliteration": "Kiraki", "english": "Sunday", "persian": "یکشنبه" }
+    ]
+  },
+  {
+    "category": "Food & Vegetables",
+    "items": [
+      { "armenian": "Իսպանախ", "transliteration": "Ispanakh", "english": "Spinach", "persian": "اسفناج" },
+      { "armenian": "Խաղամբ", "transliteration": "Khaghamb", "english": "Lettuce", "persian": "کاهو" },
+      { "armenian": "Մաղադանոս", "transliteration": "Maghadanos", "english": "Parsley", "persian": "جعفری" },
+      { "armenian": "Կինձ", "transliteration": "Kindz", "english": "Cilantro", "persian": "گشنیز" },
+      { "armenian": "Նանա", "transliteration": "Nana", "english": "Mint", "persian": "نعناع" },
+      { "armenian": "Ռեհան", "transliteration": "Rehan", "english": "Basil", "persian": "ریحان" },
+      { "armenian": "Կարտոֆիլ", "transliteration": "Kartofil", "english": "Potato", "persian": "سیب زمینی" },
+      { "armenian": "Գազար", "transliteration": "Gazar", "english": "Carrot", "persian": "هویج" },
+      { "armenian": "Բազուկ", "transliteration": "Bazuk", "english": "Beetroot", "persian": "چغندر" },
+      { "armenian": "Լոլիկ", "transliteration": "Lolik", "english": "Tomato", "persian": "گوجه فرنگی" },
+      { "armenian": "Պղպեղ", "transliteration": "Pghpegh", "english": "Bell pepper", "persian": "فلفل دلمه‌ای" },
+      { "armenian": "Սալաթուկ", "transliteration": "Salatuk", "english": "Cucumber", "persian": "خیار" },
+      { "armenian": "Բադրիջան", "transliteration": "Badrijan", "english": "Eggplant", "persian": "بادنجان" }
+    ]
+  },
+  {
+    "category": "Places & Transport",
+    "items": [
+      { "armenian": "Բանկ", "transliteration": "Baank", "english": "Bank", "persian": "بانک" },
+      { "armenian": "Փոխանակման կետ", "transliteration": "Drami phokhanakoom", "english": "Currency Exchange", "persian": "صرافی" },
+      { "armenian": "Դեղատուն", "transliteration": "Deghatoon", "english": "Pharmacy", "persian": "داروخانه" },
+      { "armenian": "Խանութ", "transliteration": "Khanut", "english": "Shop", "persian": "فروشگاه" },
+      { "armenian": "Հիվանդանոց", "transliteration": "Hivandanots", "english": "Hospital", "persian": "بیمارستان" },
+      { "armenian": "Բազար", "transliteration": "Bazar", "english": "Market", "persian": "بازار" },
+      { "armenian": "Եկեղեցի", "transliteration": "Yekeghetsi", "english": "Church", "persian": "کلیسا" },
+      { "armenian": "Ավտոբուս", "transliteration": "Avtobus", "english": "Bus", "persian": "اتوبوس" },
+      { "armenian": "Կայարան", "transliteration": "Kayaran", "english": "Train station", "persian": "ایستگاه قطار" }
+    ]
+  }
+]

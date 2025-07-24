@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Plural formation",
+    "explanation": "Armenian forms the plural by attaching suffixes to the end of the noun. According to a grammar resource, monosyllabic nouns add **-er** while polysyllabic nouns add **-ner**【601007166987671†L52-L61】. This is different from English where plural formation often involves adding **-s** or **-es**.",
+    "examples": [
+      {
+        "armenian": "օր → օրեր",
+        "transliteration": "or → orer",
+        "english": "day → days"
+      },
+      {
+        "armenian": "սև → սևեր",
+        "transliteration": "sev → sever",
+        "english": "black → blacks"
+      },
+      {
+        "armenian": "աման → ամաններ",
+        "transliteration": "aman → amanner",
+        "english": "pot → pots"
+      }
+    ]
+  },
+  {
+    "title": "Forming adverbs",
+    "explanation": "Many Armenian adverbs are formed by adding the particle **-որեն** (‑oren) to adjectives【601007166987671†L65-L77】. Some adverbs are native words without this ending, such as **hima** (now), **irakan** (really) and **shutov** (quickly).",
+    "examples": [
+      {
+        "armenian": "դանդաղ → դանդաղորեն",
+        "transliteration": "dandakh → dandakh oren",
+        "english": "slow → slowly"
+      },
+      {
+        "armenian": "զարմանալի → զարմանալիորեն",
+        "transliteration": "zarmanali → zarmanali oren",
+        "english": "wonderful → wonderfully"
+      },
+      {
+        "armenian": "հիմա",
+        "transliteration": "hima",
+        "english": "now (native adverb)"
+      }
+    ]
+  },
+  {
+    "title": "Articles and definiteness",
+    "explanation": "Unlike English, Armenian attaches its definite article to the end of the noun. There are two forms of the definite article: **‑ը / ‑ն** (pronounced roughly as *‑e* and *‑n*) depending on the final sound of the noun【601007166987671†L100-L117】. Armenian has no indefinite article; indefiniteness is indicated by context or by using the numeral **մեկ** (mek). By contrast, Persian marks indefiniteness with the suffix **ی** (‑i) or by adding words like **yek** or **chand**, and has no definite article【15005834654091†L204-L227】.",
+    "examples": [
+      {
+        "armenian": "գիրք → գիրքը",
+        "transliteration": "girk’ → girk’ë",
+        "english": "book → the book"
+      },
+      {
+        "armenian": "մարդ → մարդը",
+        "transliteration": "mard → mardë",
+        "english": "person → the person"
+      },
+      {
+        "armenian": "սեղան → սեղանն",
+        "transliteration": "seghan → seghann",
+        "english": "table → the table"
+      }
+    ]
+  },
+  {
+    "title": "Present, past and future tenses",
+    "explanation": "Armenian verbs form tenses by combining the verb stem with particles rather than changing endings. For the present tense the verb stem is followed by particles **եմ, ես, է, ենք, եք, են** corresponding to the subject. For example, **Yes kardum em** (I read), **Du kardum es** (you read), **Na kardum e** (he/she reads)【601007166987671†L124-L141】. In the past tense the particle **էի / էիր / էր / էինք / էիք / էին** is used【601007166987671†L147-L185】, and in the future tense **կ** is prefixed before the particles (e.g., **Yes k kardam**, I will read).",
+    "examples": [
+      {
+        "armenian": "Ես կարդում եմ",
+        "transliteration": "Yes kardum em",
+        "english": "I read / I am reading"
+      },
+      {
+        "armenian": "Դու կարդում ես",
+        "transliteration": "Du kardum es",
+        "english": "You read"
+      },
+      {
+        "armenian": "Նա կարդում է",
+        "transliteration": "Na kardum e",
+        "english": "He/she reads"
+      },
+      {
+        "armenian": "Ես կարդում էի",
+        "transliteration": "Yes kardum ei",
+        "english": "I was reading"
+      },
+      {
+        "armenian": "Ես կկարդամ",
+        "transliteration": "Yes k kardam",
+        "english": "I will read"
+      }
+    ]
+  },
+  {
+    "title": "Negation",
+    "explanation": "Negation in Armenian is formed by adding the particle **չ** (ch) before the verb particle. In the third person singular and plural the final vowel of the particle changes to **ի**【601007166987671†L199-L213】. This contrasts with English, which typically inserts **not** after an auxiliary.",
+    "examples": [
+      {
+        "armenian": "Ես չեմ կարդում",
+        "transliteration": "Yes chem kardum",
+        "english": "I am not reading"
+      },
+      {
+        "armenian": "Նա չի կարդում",
+        "transliteration": "Na chi kardum",
+        "english": "He/she is not reading"
+      },
+      {
+        "armenian": "Նրանք չեն կարդում",
+        "transliteration": "Nrank chen kardum",
+        "english": "They are not reading"
+      }
+    ]
+  },
+  {
+    "title": "Questions and word order",
+    "explanation": "Armenian questions generally use the same word order as statements; the interrogative is indicated by intonation or punctuation (a question mark) rather than by inversion or auxiliary verbs【601007166987671†L189-L195】. This is similar to Persian and unlike English where auxiliary verbs are moved to the start of the sentence.",
+    "examples": [
+      {
+        "armenian": "Դու կարդում ես?",
+        "transliteration": "Du kardum es?",
+        "english": "Are you reading?"
+      },
+      {
+        "armenian": "Նա գալիս է?",
+        "transliteration": "Na galis e?",
+        "english": "Is he/she coming?"
+      }
+    ]
+  },
+  {
+    "title": "Personal pronouns",
+    "explanation": "The basic Armenian personal pronouns are **ես** (yes – I), **դու** (du – you singular), **նա** (na – he/she), **մենք** (menk – we), **դուք** (duk – you plural) and **նրանք** (nrank – they)【601007166987671†L229-L236】. These pronouns precede the verb, unlike Persian which often omits subject pronouns because the verb endings indicate the subject.",
+    "examples": [
+      {
+        "armenian": "Ես սիրում եմ քեզ",
+        "transliteration": "Yes sirum em qez",
+        "english": "I love you"
+      },
+      {
+        "armenian": "Դու գրում ես",
+        "transliteration": "Du grum es",
+        "english": "You write"
+      },
+      {
+        "armenian": "Մենք սովորում ենք",
+        "transliteration": "Menk sovorum enk",
+        "english": "We study"
+      }
+    ]
+  }
+]
